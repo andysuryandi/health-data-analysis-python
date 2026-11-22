@@ -146,6 +146,10 @@ Die Ergebnisse verdeutlichen, dass die BMI-Klassifikation und die Klassifikation
 
 Da der Körperfettanteil unter anderem aus dem BMI berechnet wird, handelt es sich jedoch nicht um zwei vollständig unabhängige Messgrößen.
 
+
+![BMI und geschätzter Körperfett-Referenzbereich](figures/bmi_bodyfat_comparison.png)
+
+
 ## 8. Grenzen der Analyse
 
 Bei der Interpretation sind folgende Einschränkungen zu berücksichtigen:
