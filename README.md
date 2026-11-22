@@ -114,6 +114,9 @@ Der mittlere BMI liegt in den beiden jüngsten Altersgruppen bei rund 22,65 und 
 
 Dies beschreibt einen Zusammenhang innerhalb des Datensatzes. Daraus lässt sich kein kausaler Einfluss des Alters ableiten.
 
+![Durchschnittlicher BMI nach Altersgruppen](figures/bmi_by_age.png)
+
+
 ### 7.2 Körperliche Aktivität und geschätzter Körperfettanteil
 
 Der durchschnittliche geschätzte Körperfettanteil unterscheidet sich zwischen den Aktivitätsgruppen.
