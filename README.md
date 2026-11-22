@@ -125,6 +125,9 @@ Der durchschnittliche geschätzte Körperfettanteil unterscheidet sich zwischen 
 | Moderately Active | 27,20 % |
 | Very Active | 26,51 % |
 
+
+![Durchschnittlicher geschätzter Körperfettanteil nach Aktivitätslevel](figures/activity_body_fat.png)
+
 Die Ergebnisse zeigen innerhalb des Datensatzes einen niedrigeren durchschnittlichen geschätzten Körperfettanteil bei höheren Aktivitätsstufen.
 
 Ein ursächlicher Effekt körperlicher Aktivität lässt sich daraus nicht nachweisen.
