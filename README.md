@@ -12,6 +12,16 @@ Das Projekt umfasst sieben vorgegebene Analysefragen und drei eigenständig entw
 
 Neben der explorativen Datenanalyse liegt ein besonderer Schwerpunkt auf Datenqualität, nachvollziehbaren Berechnungen, aussagekräftigen Visualisierungen und der kritischen Interpretation der Ergebnisse.
 
+### Die wichtigsten Erkenntnisse auf einen Blick
+
+Die Analyse von 50.002 Gesundheitsdatensätzen liefert drei zentrale Ergebnisse:
+
+- **BMI und Körperfett:** 49,55 % der Datensätze mit BMI im Normalbereich weisen einen geschätzten Körperfettanteil oberhalb des vorgegebenen Referenzbereichs auf.
+- **Körperliche Aktivität:** Der durchschnittliche geschätzte Körperfettanteil beträgt 29,60 % bei inaktiven und 26,51 % bei sehr aktiven Personen.
+- **Alter:** Der mittlere BMI steigt über die untersuchten Altersgruppen von rund 22,65 auf 24,64.
+
+**Einordnung:** Der Körperfettanteil wurde anhand von BMI, Alter und Geschlecht geschätzt. Die Ergebnisse beschreiben Muster innerhalb des Datensatzes und erlauben keine kausalen oder medizinisch-diagnostischen Schlussfolgerungen.
+
 ## 2. Zentrale Forschungsfrage
 
 **Welche Muster zeigen sich beim BMI und beim geschätzten Körperfettanteil in unterschiedlichen Bevölkerungs- und Aktivitätsgruppen, und welche Grenzen bestehen bei der Interpretation dieser Zusammenhänge?**
@@ -100,7 +110,7 @@ Dieses Vorgehen soll die Transparenz, Nachvollziehbarkeit und Reproduzierbarkeit
 
 ### 7.1 BMI und Alter
 
-Der durchschnittliche BMI steigt über die untersuchten Altersgruppen hinweg von ungefähr **22,65** in der jüngsten Altersgruppe auf **24,64** bei Personen ab 60 Jahren.
+Der mittlere BMI liegt in den beiden jüngsten Altersgruppen bei rund 22,65 und steigt in den folgenden Altersgruppen bis auf 24,64 bei Personen ab 60 Jahren. Die Ergebnisse beschreiben Unterschiede zwischen Altersgruppen innerhalb des Datensatzes und keine individuelle Entwicklung über die Zeit.
 
 Dies beschreibt einen Zusammenhang innerhalb des Datensatzes. Daraus lässt sich kein kausaler Einfluss des Alters ableiten.
 
